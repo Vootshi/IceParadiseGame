@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 46f4915e7aad376458c7c48a764e25a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 18284619555733758
+    second: hotpng.com (1)_0
+  - first:
+      213: -6122517697679322783
+    second: hotpng.com (1)_1
+  - first:
+      213: 2490198546558956239
+    second: hotpng.com (1)_2
+  - first:
+      213: 3100818952302393468
+    second: hotpng.com (1)_3
+  - first:
+      213: 6019156555594261229
+    second: hotpng.com (1)_4
+  - first:
+      213: 486592849263603538
+    second: hotpng.com (1)_5
+  - first:
+      213: 2225036903226154016
+    second: hotpng.com (1)_6
+  - first:
+      213: -6878213064867085400
+    second: hotpng.com (1)_7
+  - first:
+      213: 3912077551535541150
+    second: hotpng.com (1)_8
+  - first:
+      213: -2909228931237263612
+    second: hotpng.com (1)_9
+  - first:
+      213: 3906059107804775107
+    second: hotpng.com (1)_10
+  - first:
+      213: -7715605016920799449
+    second: hotpng.com (1)_11
+  - first:
+      213: 8724106148553393767
+    second: hotpng.com (1)_12
+  - first:
+      213: -1677777375018870089
+    second: hotpng.com (1)_13
+  - first:
+      213: -4494080381521621597
+    second: hotpng.com (1)_14
+  - first:
+      213: 4599030615747022943
+    second: hotpng.com (1)_15
+  - first:
+      213: 2540519220088065804
+    second: hotpng.com (1)_16
+  - first:
+      213: 3537866708155992187
+    second: hotpng.com (1)_17
+  - first:
+      213: 1011769728602418800
+    second: hotpng.com (1)_18
+  - first:
+      213: -8328795069849861462
+    second: hotpng.com (1)_19
+  - first:
+      213: 3422522239664441267
+    second: hotpng.com (1)_20
+  - first:
+      213: 5376072307381973308
+    second: hotpng.com (1)_21
+  - first:
+      213: 7180562018235900455
+    second: hotpng.com (1)_22
+  - first:
+      213: -4726391466426070851
+    second: hotpng.com (1)_23
+  - first:
+      213: 3346185192039572742
+    second: hotpng.com (1)_24
+  - first:
+      213: 2685154070704153712
+    second: hotpng.com (1)_25
+  - first:
+      213: 3540325307952707519
+    second: hotpng.com (1)_26
+  - first:
+      213: -1535463822584127880
+    second: hotpng.com (1)_27
+  - first:
+      213: -4546390332427601826
+    second: hotpng.com (1)_28
+  - first:
+      213: 3743147399757613148
+    second: hotpng.com (1)_29
+  - first:
+      213: -1802876880407430462
+    second: hotpng.com (1)_30
+  - first:
+      213: -2336014119315940734
+    second: hotpng.com (1)_31
+  - first:
+      213: -3613376320850204279
+    second: hotpng.com (1)_32
+  - first:
+      213: 1065114387704621535
+    second: hotpng.com (1)_33
+  - first:
+      213: -3942854141738303724
+    second: hotpng.com (1)_34
+  - first:
+      213: 4437542785432618120
+    second: hotpng.com (1)_35
+  - first:
+      213: -3984537523615823319
+    second: hotpng.com (1)_36
+  - first:
+      213: -7784806725625877747
+    second: hotpng.com (1)_37
+  - first:
+      213: 3236698398869510368
+    second: hotpng.com (1)_38
+  - first:
+      213: -8688850628799660157
+    second: hotpng.com (1)_39
+  - first:
+      213: -3892357400655508146
+    second: hotpng.com (1)_40
+  - first:
+      213: -364362478640163160
+    second: hotpng.com (1)_41
+  - first:
+      213: 3263011079517509646
+    second: hotpng.com (1)_42
+  - first:
+      213: 6019158257102022813
+    second: hotpng.com (1)_43
+  - first:
+      213: 7724392229045148748
+    second: hotpng.com (1)_44
+  - first:
+      213: 9042503014852372818
+    second: hotpng.com (1)_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.51253045, y: 0.49356255}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 1059, y: 1155, z: 50, w: 450}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hotpng.com (1)_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1536
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0097db3c5f04000800000000000000
+      internalID: 18284619555733758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1536
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16118caa792780ba0800000000000000
+      internalID: -6122517697679322783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1536
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc237db6266fe8220800000000000000
+      internalID: 2490198546558956239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1536
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7878c48862580b20800000000000000
+      internalID: 3100818952302393468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1536
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e8a71ff6588350800000000000000
+      internalID: 6019156555594261229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1536
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f2a9a4e99b0c600800000000000000
+      internalID: 486592849263603538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1536
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c1ee4564be0ee10800000000000000
+      internalID: 2225036903226154016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1536
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3852be8adab80a0800000000000000
+      internalID: -6878213064867085400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1536
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b4e095ecd7a4630800000000000000
+      internalID: 3912077551535541150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1152
+        width: 104
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407405763b750a7d0800000000000000
+      internalID: -2909228931237263612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1152
+        width: 104
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20268301c153630800000000000000
+      internalID: 3906059107804775107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1153
+        width: 104
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c63bbd1aace490800000000000000
+      internalID: -7715605016920799449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1153
+        width: 104
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766835fd150421970800000000000000
+      internalID: 8724106148553393767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1152
+        width: 104
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba10dddd5657b8e0800000000000000
+      internalID: -1677777375018870089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1152
+        width: 104
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0a5324b1d1a1c0800000000000000
+      internalID: -4494080381521621597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 768
+        width: 104
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f505fb27af903df30800000000000000
+      internalID: 4599030615747022943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc66a35ccb14320800000000000000
+      internalID: 2540519220088065804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788152d607091130800000000000000
+      internalID: 3537866708155992187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e27d325378a0e00800000000000000
+      internalID: 1011769728602418800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20396030d2a6c80800000000000000
+      internalID: -8328795069849861462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c21bf7dd3f7f20800000000000000
+      internalID: 3422522239664441267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 707
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313158a745ab9a40800000000000000
+      internalID: 5376072307381973308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 756
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722ec908c1b76a360800000000000000
+      internalID: 7180562018235900455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 384
+        width: 104
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88c36b00c786eb0800000000000000
+      internalID: -4726391466426070851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_24
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 701
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e03c04b9007e20800000000000000
+      internalID: 3346185192039572742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 723
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074e3879665934520800000000000000
+      internalID: 2685154070704153712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 715
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b8d13c13c12130800000000000000
+      internalID: 3540325307952707519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 705
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ed861e9cfe0bae0800000000000000
+      internalID: -1535463822584127880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 700
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f169941af7e0c0800000000000000
+      internalID: -4546390332427601826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 104
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ca706ab452f330800000000000000
+      internalID: 3743147399757613148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cafc818705eaf6e0800000000000000
+      internalID: -1802876880407430462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 675
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a50e3098fc49fd0800000000000000
+      internalID: -2336014119315940734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9896ae37165baddc0800000000000000
+      internalID: -3613376320850204279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_33
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 678
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9aa4474eb08ce00800000000000000
+      internalID: 1065114387704621535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_34
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb2885c0b2849c0800000000000000
+      internalID: -3942854141738303724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_35
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8840f49f6a1559d30800000000000000
+      internalID: 4437542785432618120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0aa6bb3414b8c0800000000000000
+      internalID: -3984537523615823319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 27
+        width: 103
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b6ff9578fc6f390800000000000000
+      internalID: -7784806725625877747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 250
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e851b58b001bec20800000000000000
+      internalID: 3236698398869510368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 226
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f77fb73600b6780800000000000000
+      internalID: -8688850628799660157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 137
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc01311919bf9c0800000000000000
+      internalID: -3892357400655508146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 144
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61c23914681faf0800000000000000
+      internalID: -364362478640163160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_42
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 161
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e081ec4e94b884d20800000000000000
+      internalID: 3263011079517509646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 89
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ec614b88588350800000000000000
+      internalID: 6019158257102022813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c16068ecd823b60800000000000000
+      internalID: 7724392229045148748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotpng.com (1)_45
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 13
+        width: 182
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259aca0359c6d7d70800000000000000
+      internalID: 9042503014852372818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
