@@ -5,13 +5,11 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 7f;
-    
-    public Text liveScore;
     public event System.Action OnPlayerDeath;
-    public Canvas canvas;
-
-    private float screenWidth;
+    public float speed = 7f;
+    public Text liveScore;
+    
+    float screenWidth;
     float screenHalfWidth;
     float screenHalfHeight;
 
@@ -37,7 +35,6 @@ public class Player : MonoBehaviour
 
         transform.Translate(velocity*Time.deltaTime);
 
-
         TouchControl();
 
         if (transform.position.x > screenHalfWidth)
@@ -58,25 +55,20 @@ public class Player : MonoBehaviour
             transform.position = new Vector2(transform.position.x, - screenHalfHeight);
         }
 
-        
         liveScore.text = ((int)Mathf.Lerp(1,40000,Time.timeSinceLevelLoad/400)).ToString();
-        
-        
-
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.tag == "Falling Block")
+        if (collision.tag == "Falling Block")
         {
-            if(OnPlayerDeath != null)
+            if (OnPlayerDeath != null)
             {
                 OnPlayerDeath();
             }
             Destroy(gameObject);
             liveScore.text = " ";
         }
-        
     }
 
     void TouchControl()
@@ -90,9 +82,7 @@ public class Player : MonoBehaviour
             }
             else
             {
-                
                 transform.Translate(speed * Time.deltaTime, 0, 0);
-                
             }
         }
     }

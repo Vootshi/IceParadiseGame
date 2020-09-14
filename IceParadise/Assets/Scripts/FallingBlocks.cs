@@ -6,11 +6,11 @@ public class FallingBlocks : MonoBehaviour
 {
     public float speed = 2f;
     public Vector2 speedMinMax;
+
     float visibleHeightThreshold;
 
     private void Start()
     {
-        //speed = Mathf.Lerp(speedMinMax.y, speedMinMax.x, Difficufly.GetDifficultyPercent());
         visibleHeightThreshold = -Camera.main.orthographicSize - transform.localScale.y;
     }
 

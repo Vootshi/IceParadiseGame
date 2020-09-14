@@ -8,7 +8,8 @@ public class GameOver : MonoBehaviour
 {
     public GameObject gameOverScreen;
     public Text score;
-    bool gameOver = false;
+
+    bool isGameOver = false;
     AudioSource audio;
 
     void Start()
@@ -16,7 +17,7 @@ public class GameOver : MonoBehaviour
     {
         FindObjectOfType<Player>().OnPlayerDeath += OnGameOver;
         audio = FindObjectOfType<AudioSource>();
-        if(audio != null)
+        if (audio != null)
         {
             audio.volume = 1f;
         }
@@ -26,7 +27,7 @@ public class GameOver : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (gameOver)
+        if (isGameOver)
         {
             if (Input.GetKeyDown(KeyCode.Space) || Input.touchCount>1)
             {
@@ -40,7 +41,7 @@ public class GameOver : MonoBehaviour
     public void OnGameOver()
     {
         gameOverScreen.SetActive(true);
-        gameOver = true;
+        isGameOver = true;
         score.text = FindObjectOfType<Player>().liveScore.text;
         if(audio != null)
         {
