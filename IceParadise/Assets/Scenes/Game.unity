@@ -1071,6 +1071,18 @@ PrefabInstance:
       propertyPath: audioButton
       value: 
       objectReference: {fileID: 284680568}
+    - target: {fileID: 7818424814610347037, guid: b6735b28f25389a4e9614407a5421b7b,
+        type: 3}
+      propertyPath: disableVolumeSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7aa0426d3058a844082a64621efa9ef4,
+        type: 3}
+    - target: {fileID: 7818424814610347037, guid: b6735b28f25389a4e9614407a5421b7b,
+        type: 3}
+      propertyPath: enableVolumeSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5c7cf1ebae1f51d4c9175634ace567fd,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6735b28f25389a4e9614407a5421b7b, type: 3}
 --- !u!1 &1439418675

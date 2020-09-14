@@ -46,14 +46,14 @@ public class Player : MonoBehaviour
             transform.position = new Vector2(screenHalfWidth, transform.position.y);
         }
 
-        if (transform.position.y > screenHalfHeight)
-        {
-            transform.position = new Vector2(transform.position.x, screenHalfHeight);
-        }
-        if (transform.position.y < -screenHalfHeight)
-        {
-            transform.position = new Vector2(transform.position.x, - screenHalfHeight);
-        }
+        //if (transform.position.y > screenHalfHeight)
+        //{
+        //    transform.position = new Vector2(transform.position.x, screenHalfHeight);
+        //}
+        //if (transform.position.y < -screenHalfHeight)
+        //{
+        //    transform.position = new Vector2(transform.position.x, - screenHalfHeight);
+        //}
 
         liveScore.text = ((int)Mathf.Lerp(1,40000,Time.timeSinceLevelLoad/400)).ToString();
     }
@@ -62,10 +62,7 @@ public class Player : MonoBehaviour
     {
         if (collision.tag == "Falling Block")
         {
-            if (OnPlayerDeath != null)
-            {
-                OnPlayerDeath();
-            }
+            OnPlayerDeath?.Invoke();
             Destroy(gameObject);
             liveScore.text = " ";
         }

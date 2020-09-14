@@ -6,8 +6,8 @@ using UnityEngine.UI;
 public class AudioManager : MonoBehaviour
 {
     public Button audioButton;
-    public Sprite enableVolumeSprite;
-    public Sprite disableVolumeSprite;
+    public static Sprite enableVolumeSprite;
+    public static Sprite disableVolumeSprite;
 
     AudioSource audio;
     bool isMusicActive = true;
@@ -17,6 +17,22 @@ public class AudioManager : MonoBehaviour
         audio = FindObjectOfType<AudioSource>();
         DontDestroyOnLoad(audio);
         DontDestroyOnLoad(audioButton);
+
+        print("ScriptLoaded");
+        print(isMusicActive);
+
+        if (isMusicActive)
+        {
+            audio.mute = false;
+            isMusicActive = true;
+            audioButton.image.sprite = enableVolumeSprite;
+        }
+        else
+        {
+            audio.mute = true;
+            isMusicActive = false;
+            audioButton.image.sprite = disableVolumeSprite;
+        }
     }
 
     public void MuteAudio()
