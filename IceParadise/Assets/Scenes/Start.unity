@@ -376,7 +376,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &916807392
 AudioSource:
   m_ObjectHideFlags: 0
@@ -937,6 +937,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MuteAudioButton
       objectReference: {fileID: 0}
+    - target: {fileID: 3096279307296361666, guid: 4c974df3922330d4c8f6a86ad7bea808,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3096279307296361668, guid: 4c974df3922330d4c8f6a86ad7bea808,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1000,7 +1005,7 @@ PrefabInstance:
     - target: {fileID: 3096279307296361669, guid: 4c974df3922330d4c8f6a86ad7bea808,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 105.84
+      value: 106
       objectReference: {fileID: 0}
     - target: {fileID: 3096279307296361669, guid: 4c974df3922330d4c8f6a86ad7bea808,
         type: 3}
@@ -1060,6 +1065,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Audio Manager
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818424814610347026, guid: b6735b28f25389a4e9614407a5421b7b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7818424814610347036, guid: b6735b28f25389a4e9614407a5421b7b,
         type: 3}
